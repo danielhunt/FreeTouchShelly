@@ -1,0 +1,8 @@
+{
+	"ssid": "YOUR_WIFI_SSID",
+	"password": "YOUR_WIFI_PASSWORD",
+	"wifimode": "WIFI_STA",
+	"wifihostname": "freetouchshelly",
+	"attempts": 10,
+	"attemptdelay": 500
+}

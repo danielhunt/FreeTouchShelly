@@ -3,6 +3,7 @@ A simple app for the [ESP32 TouchDown](https://github.com/DustinWatts/esp32-touc
 
 Based loosely on Dustin Watt's [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) for the ESP32 TouchDown - this is a complete change in direction for the UI for simplicity's sake.
 
+![IMG_9539](https://user-images.githubusercontent.com/99176/121272210-48c24f00-c8bd-11eb-928d-aea04a61600e.png)
 
 # Hardware used
 
